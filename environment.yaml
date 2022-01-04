@@ -13,6 +13,8 @@ dependencies:
   - seaborn
   - jupyter
   - matplotlib
+  - jupyter_contrib_nbextensions
+  - pip
   - pip: 
     - jaal
     - cdlib
