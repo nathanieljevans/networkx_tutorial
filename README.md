@@ -38,7 +38,7 @@ If you're new to conda, this is a helpful command [cheat sheet](https://docs.con
 
 ```bash 
 # create the conda env 
-$ conda env create --file environment.yaml
+$ conda env create --file environment.yml
 
 ```
 
