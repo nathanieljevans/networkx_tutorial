@@ -4,6 +4,10 @@
 
 This tutorial is intended for use in `Oregon Health & Science University (OHSU) BMI 567/667: Network Science and Biology – Principles, Programming, Analysis and Visualization`. 
 
+I recommend setting up a local environment to run this tutorial; however, if you run into issues it can be run using `mybinder.org`. It may take 5-10 minutes to set up the docker image so double check that it works *before* class. Also, keep in mind that some of the more computationally expensive operations in the tutorial may take longer to run on `mybinder`. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathanieljevans/networkx_tutorial/HEAD)
+
 
 # Setup 
 
