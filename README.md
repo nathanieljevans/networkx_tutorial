@@ -5,11 +5,11 @@
 This tutorial is intended for use in `Oregon Health & Science University (OHSU) BMI 567/667: Network Science and Biology – Principles, Programming, Analysis and Visualization`. 
 
 
-## Setup 
+# Setup 
 
 It's recommended to have access to `bash` for this installation, if you are on windows this can be done using [`git bash`](https://gitforwindows.org/) or [`WSL2`](https://docs.microsoft.com/en-us/windows/wsl/about). 
 
-### Step 1: Clone the github repository 
+## Step 1: Clone the github repository 
 
 ```bash 
 
@@ -18,7 +18,18 @@ $ cd networkx_tutorial
 
 ``` 
 
-### Step 2: Install the conda environment 
+## Step 1.5 (optional): To use the `Graphviz` layouts, install `graphviz`
+
+Follow [these](https://graphviz.org/download/) instructions. Or, if you're using ubuntu: 
+
+```bash
+
+$ sudo apt-get install graphviz graphviz-dev
+
+```
+
+
+## Step 2: Install the conda environment 
 
 First, make sure you have the [conda](https://www.anaconda.com/products/individual) package manager installed. 
 
@@ -31,7 +42,7 @@ $ conda env create --file environment.yaml
 
 ```
 
-### Step 3: Activate environment 
+## Step 3: Activate environment 
 
 ```bash 
 
@@ -39,7 +50,7 @@ $ conda activate nx_env
 
 ``` 
 
-### Step 4: Start a Jupyter session 
+## Step 4: Start a Jupyter session 
 
 ```bash 
 

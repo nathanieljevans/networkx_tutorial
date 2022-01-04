@@ -1,0 +1,5 @@
+0 1 {'attr1': 20, 'attr2': 'nothing'}
+0 2 {}
+1 2 {'attr2': 3}
+1 dog {}
+dog cat {}
