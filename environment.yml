@@ -3,6 +3,7 @@ name: nx_env
 channels:
   - defaults
   - conda-forge
+  - pyg
 
 dependencies:
   - python=3.9
@@ -14,8 +15,12 @@ dependencies:
   - jupyter
   - matplotlib
   - jupyter_contrib_nbextensions
+  - torch
+  - torch_geometric
+  - torch_sparse
   - pip
   - pip: 
     - jaal
     - cdlib
     - pydot
+    - scikit-network
