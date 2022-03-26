@@ -1,5 +1,7 @@
 # Networkx Tutorial
 
+[![DOI](https://zenodo.org/badge/425050655.svg)](https://zenodo.org/badge/latestdoi/425050655)
+
 > **Author** : Nathaniel Evans (evansna@ohsu.edu)
 
 This tutorial is intended for use in `Oregon Health & Science University (OHSU) BMI 567/667: Network Science and Biology – Principles, Programming, Analysis and Visualization`. 
